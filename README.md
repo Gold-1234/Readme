@@ -22,7 +22,7 @@ This is a simple **Markdown Previewer** that allows users to write Markdown text
    git clone https://github.com/Gold-1234/Readme.git
    cd Readme
    ```
-2. Open `localhost:3000` in a browser.
+2. Open `index.html` in a browser.
 
 ## Usage
 1. Enter Markdown text in the input area.
