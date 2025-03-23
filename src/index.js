@@ -10,7 +10,7 @@ app.use(express.static('src'))
 
 
 app.get('/', (req, res) => {
-	res.sendFile(path.resolve("../index.html"))
+	res.sendFile(path.resolve("./index.html"))
 })
 
 app.listen(PORT,() => {
